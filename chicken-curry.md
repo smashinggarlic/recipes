@@ -41,7 +41,9 @@ Saute all the masala ingredients on low flame for few mins until flavor comes ou
  6. Add marinated chicken, mix and let it cook until it releases water 
  7. Add one tomato (blended) and mix
  8. Cook until oil is coming to the top 
- 9. Add 1tbsp of coconut powder/sesame powder for gravy thickness
+ 9. Add 2 tbsp of coconut powder/sesame powder for gravy thickness
  10. Check for salt 
  11. Add the masala powder and mix well. Cook for 5 mins
- 12. Close the lid and pressure cook on medium to low for one whistle 
+ 12. Add a cup of water and close the lid. Pressure cook on medium to low for one whistle
+ 13. Once the pressure is all out, check for gravy thickness and put on flame if you want to have the gravy thicker
+ 14. Add chopped cilantro and serve
