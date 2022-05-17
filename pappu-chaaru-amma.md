@@ -1,13 +1,12 @@
 # Pappu Chaaru amma style
 
-Brine the chicken in diluted salt water (room temp) for 45 mins before the start.
 
 
 ## Pappu prep
 Pressure cook the daal for 3 whistles
 
 
-# Masala Ingredients
+## Masala Ingredients
 
 - Cumin - 1 tsp
 - Mustard seeds - pinch
@@ -21,7 +20,7 @@ Pressure cook the daal for 3 whistles
 
 
 
-# Steps
+## Steps
 
  1. In a pressure cooker, oil add Masala ingridients
  2. When the spices are nicely coated, add Onion, green chilli, curry leaves, ginger garlic paste and one tomato (NOT finally chopped)
