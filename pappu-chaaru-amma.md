@@ -1,18 +1,9 @@
-# Chicken Curry
+# Pappu Chaaru amma style
 
 Brine the chicken in diluted salt water (room temp) for 45 mins before the start.
 
-#  Chicken Marination Ingredients
 
- - Chicken 2 lbs
- - Chilli powder 
- - Dhaniya powder
- - Turmeric
- - salt
- - yogurt (not too much)
- - Ginger garlic paste
-
-## Pappu Chaaru
+## Pappu prep
 Pressure cook the daal for 3 whistles
 
 
@@ -33,7 +24,7 @@ Pressure cook the daal for 3 whistles
 # Steps
 
  1. In a pressure cooker, oil add Masala ingridients
- 2. When the spices are nicely coated, add Onion, green chilli, curry leaves and one tomato (NOT finally chopped)
+ 2. When the spices are nicely coated, add Onion, green chilli, curry leaves, ginger garlic paste and one tomato (NOT finally chopped)
  3. Saute for few mins 
  7. Add chilli powder, Coriander and salt
  9. Add lot of Tamarind juice
