@@ -17,10 +17,9 @@ Marinate the chicken with lemon juice and ginger garlic paste
 
 # Steps
 
- 1. In a bowwl, mix all the first marination ingridients and let it be for 1 hr
+ 1. In a bowl, mix all the first marination ingridients and let it be for 1 hr
  2. Rinse a little water after the first marination
  3. In a bowl, add mustard oil and kashmiri chilli powder. Mix well
- 4. Add Ginger garlic paste, hung yogurt, Kasuri methi and lemon juice
- 5. Mix well.
- 6. Add the chicken from the first marination to this paste. Mix well and keep it for 2 hours
- 7. Finish it on a high heat grill pan or a grill or in an oven at 392F (200C) for 20-25 mins.
+ 4. Add Ginger garlic paste, hung yogurt, Kasuri methi and lemon juice. Mix well.
+ 5. Add the chicken from the first marination to this paste. Mix well and keep it for 2 hours
+ 6. Finish it on a high heat grill pan or a grill or in an oven at 392F (200C) for 20-25 mins.
