@@ -7,6 +7,7 @@ This repository contains various recipes:
 - [Pudla.md](./Pudla.md)
 - [keema-turkey.md](./keema-turkey.md)
 - [chicken-tandoori-tikka.md](./chicken-tandoori-tikka.md)
+- [mutton-curry.md](./mutton-curry.md)
 - [Idli-batter.md](./Idli-batter.md)
 - [chicken-curry.md](./chicken-curry.md)
 - [dosa-batter.md](./dosa-batter.md)
