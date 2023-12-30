@@ -2,6 +2,7 @@
 
 This repository contains various recipes:
 
+- [shrimp-latha-recipe.md](./shrimp-latha-recipe.md)
 - [mutton-curry.md](./mutton-curry.md)
 - [dosa-batter.md](./dosa-batter.md)
 - [mahi-mahi-oven-baked.md](./mahi-mahi-oven-baked.md)
