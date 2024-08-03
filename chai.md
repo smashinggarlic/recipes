@@ -11,7 +11,7 @@
 
 
 
-## Steps to make the batter
+## Steps
 
  1. In a pot, add some water and 1 tbsp of chai powder and let it simmer for a few mins (like 5 mins on low heat).
     - optional: add cardamom (Elaichi) powder for additional taste.
