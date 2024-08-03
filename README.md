@@ -16,5 +16,6 @@ This repository contains various recipes:
 - [avacado-salsa.md](./avacado-salsa.md)
 - [chicken-tandoori-tikka.md](./chicken-tandoori-tikka.md)
 - [fish-curry.md](./fish-curry.md)
+- [chai.md](./chai.md)
 - [pappu-chaaru-amma.md](./pappu-chaaru-amma.md)
 - [palak-gosht.md](./palak-gosht.md)
