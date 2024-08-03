@@ -1,5 +1,3 @@
-# Recipes
-
 This repository contains various recipes:
 
 - [keema-turkey.md](./keema-turkey.md)
