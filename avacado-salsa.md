@@ -15,5 +15,5 @@
 
 ## Steps to make the batter
 
- 1. Blend all ingriedients together
+ 1. Mix all the ingriedients together
  2. Adjust salt and chill according to your taste
